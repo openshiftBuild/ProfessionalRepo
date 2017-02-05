@@ -1,1 +1,0 @@
-﻿Testing GitHub Clone, Add, Commit, and Push
