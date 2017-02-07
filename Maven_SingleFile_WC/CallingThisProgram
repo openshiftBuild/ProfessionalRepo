@@ -1,0 +1,7 @@
+Calling this program
+
+
+bin/hadoop jar /home/huser/Mapreduce_Customized_WordCount/Maven_SingleFile_WC/Maven_SingleFile_WC/target/Maven_SingleFile_WC-1.0.jar WordCount /user/huser/annaK.txt Maven_SingleFile_WC
+
+
+NOT "word count"
